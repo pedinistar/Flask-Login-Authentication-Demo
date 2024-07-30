@@ -3,13 +3,13 @@
 A simple Flask application demonstrating user authentication using Flask-Login. This project includes basic login and logout functionality with user session management.
 
 ## Table of Contents 📚
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Introduction](#introduction-)
+- [Features](#features-)
+- [Installation](#installation-)
+- [Usage](#usage-)
+- [Contributing](#contributing-)
+- [License](#license-)
+- [Contact](#contact-)
 
 ## Introduction 💡
 This project is a basic demonstration of how to implement user authentication in a Flask application using Flask-Login. The application allows users to log in, log out, and access protected routes.
@@ -61,9 +61,3 @@ This project is a basic demonstration of how to implement user authentication in
 
 ## Contributing 🤝
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License 📜
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact 📧
-If you have any questions or feedback, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
